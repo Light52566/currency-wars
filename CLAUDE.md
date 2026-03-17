@@ -244,4 +244,8 @@ docker compose up --build
 |---|---|---|
 | Product spec & milestones | [project_spec.md](project_spec.md) | Source of truth for features, data model, API surface |
 | Environment variables | [.env.example](.env.example) | All configurable env vars with descriptions |
+| Changelog | [CHANGELOG.md](CHANGELOG.md) | Notable changes per release |
 | This file | [CLAUDE.md](CLAUDE.md) | Architecture, conventions, and workflows for Claude |
+
+- Update the Documentation after major milestones and additions to the project.
+- Refresh memory after successful major adition and before new major addition
